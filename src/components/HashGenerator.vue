@@ -155,7 +155,7 @@
 
             <!-- Footer -->
             <div class="card-footer-section">
-                <span>Laravel 10+ · PHP 8.1+ · Bcrypt & Argon2 Support</span>
+                <span>Laravel 13 · PHP 8.4 · Bcrypt & Argon2 Support</span>
             </div>
         </div>
     </div>
